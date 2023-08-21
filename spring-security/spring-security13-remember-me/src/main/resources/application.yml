@@ -8,9 +8,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/springsecurity
+    url: jdbc:mysql://localhost:3306/springsecurityyideng
     username: root
-    password: root
+    password: 123456
 
 mybatis-plus:
   configuration:
