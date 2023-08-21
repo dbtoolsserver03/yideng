@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security08-login-filter" />
+        <module name="spring-security05-auth" />
+        <module name="spring-security11-captcha-filter" />
+        <module name="spring-security02-login-page" />
+        <module name="SpringSecurity19-authorization-dynamic" />
+        <module name="spring-security18-annotation-auth" />
+        <module name="spring-security09-exception-login-failure" />
+        <module name="spring-security07-mybatis-plus" />
+        <module name="spring-security12-captcha-provider" />
+        <module name="spring-security06-spring-jdbc" />
+        <module name="spring-security14-kickout" />
+        <module name="spring-security17-password" />
+        <module name="spring-security01-helloworld" />
+        <module name="spring-security03-server" />
+        <module name="spring-security13-remember-me" />
+        <module name="spring-security15-jwt" />
+        <module name="spring-security10-exception-auth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-security01-helloworld" target="17" />
+      <module name="spring-security011-captcha-filter" target="17" />
+      <module name="spring-security02-login-page" target="17" />
+      <module name="spring-security03-server" target="17" />
+      <module name="spring-security05-auth" target="17" />
+      <module name="spring-security05-authentication" target="17" />
+      <module name="spring-security05-Authentication" target="17" />
+      <module name="spring-security06-spring-jdbc" target="17" />
+      <module name="spring-security07-mybatis-plus" target="17" />
+      <module name="spring-security08-login-filter" target="17" />
+      <module name="spring-security09-exception-handler" target="17" />
+      <module name="spring-security09-exception-login-failure" target="17" />
+      <module name="spring-security10-exception-auth" target="17" />
+      <module name="spring-security11-captcha" target="17" />
+      <module name="spring-security11-captcha-filter" target="17" />
+      <module name="spring-security12-captcha-provider" target="17" />
+      <module name="spring-security13-remember-me" target="17" />
+      <module name="spring-security13-rememberMe" target="17" />
+      <module name="spring-security14-kickout" target="17" />
+      <module name="spring-security15-jwt" target="17" />
+      <module name="spring-security17-password" target="17" />
+      <module name="spring-security18-annotation-auth" target="17" />
+      <module name="spring-security19-auth-dynamic" target="17" />
+      <module name="SpringSecurity19-authorization-dynamic" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringSecurity19-authorization-dynamic" options="-parameters" />
+      <module name="spring-security01-helloworld" options="-parameters" />
+      <module name="spring-security011-captcha-filter" options="-parameters" />
+      <module name="spring-security02-login-page" options="-parameters" />
+      <module name="spring-security03-server" options="-parameters" />
+      <module name="spring-security05-Authentication" options="-parameters" />
+      <module name="spring-security05-auth" options="-parameters" />
+      <module name="spring-security05-authentication" options="-parameters" />
+      <module name="spring-security06-spring-jdbc" options="-parameters" />
+      <module name="spring-security07-mybatis-plus" options="-parameters" />
+      <module name="spring-security08-login-filter" options="-parameters" />
+      <module name="spring-security09-exception-handler" options="-parameters" />
+      <module name="spring-security09-exception-login-failure" options="-parameters" />
+      <module name="spring-security10-exception-auth" options="-parameters" />
+      <module name="spring-security11-captcha" options="-parameters" />
+      <module name="spring-security11-captcha-filter" options="-parameters" />
+      <module name="spring-security12-captcha-provider" options="-parameters" />
+      <module name="spring-security13-remember-me" options="-parameters" />
+      <module name="spring-security13-rememberMe" options="-parameters" />
+      <module name="spring-security14-kickout" options="-parameters" />
+      <module name="spring-security15-jwt" options="-parameters" />
+      <module name="spring-security17-password" options="-parameters" />
+      <module name="spring-security18-annotation-auth" options="-parameters" />
+      <module name="spring-security19-auth-dynamic" options="-parameters" />
+    </option>
+  </component>
+</project>

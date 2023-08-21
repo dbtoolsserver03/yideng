@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/SpringSecurity19-authorization-dynamic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security01-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security02-login-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security03-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security05-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security05-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security06-spring-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security06-spring-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security07-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security07-mybatis-plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security08-login-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security08-login-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security09-exception-login-failure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security09-exception-login-failure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security10-exception-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security10-exception-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security11-captcha-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security11-captcha-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security12-captcha-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security12-captcha-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security13-remember-me/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security14-kickout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security14-kickout/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security15-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security15-jwt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security17-password/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security17-password/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security18-annotation-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security18-annotation-auth/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

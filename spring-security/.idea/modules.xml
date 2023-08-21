@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurity19-authorization-dynamic/SpringSecurity19-authorization-dynamic.iml" filepath="$PROJECT_DIR$/SpringSecurity19-authorization-dynamic/SpringSecurity19-authorization-dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security01-helloworld/spring-security01-helloworld.iml" filepath="$PROJECT_DIR$/spring-security01-helloworld/spring-security01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security02-login-page/spring-security02-login-page.iml" filepath="$PROJECT_DIR$/spring-security02-login-page/spring-security02-login-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security03-server/spring-security03-server.iml" filepath="$PROJECT_DIR$/spring-security03-server/spring-security03-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security05-auth/spring-security05-auth.iml" filepath="$PROJECT_DIR$/spring-security05-auth/spring-security05-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security06-spring-jdbc/spring-security06-spring-jdbc.iml" filepath="$PROJECT_DIR$/spring-security06-spring-jdbc/spring-security06-spring-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security07-mybatis-plus/spring-security07-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-security07-mybatis-plus/spring-security07-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security08-login-filter/spring-security08-login-filter.iml" filepath="$PROJECT_DIR$/spring-security08-login-filter/spring-security08-login-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security09-exception-login-failure/spring-security09-exception-login-failure.iml" filepath="$PROJECT_DIR$/spring-security09-exception-login-failure/spring-security09-exception-login-failure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security10-exception-auth/spring-security10-exception-auth.iml" filepath="$PROJECT_DIR$/spring-security10-exception-auth/spring-security10-exception-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security11-captcha-filter/spring-security11-captcha-filter.iml" filepath="$PROJECT_DIR$/spring-security11-captcha-filter/spring-security11-captcha-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security12-captcha-provider/spring-security12-captcha-provider.iml" filepath="$PROJECT_DIR$/spring-security12-captcha-provider/spring-security12-captcha-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security13-remember-me/spring-security13-remember-me.iml" filepath="$PROJECT_DIR$/spring-security13-remember-me/spring-security13-remember-me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security14-kickout/spring-security14-kickout.iml" filepath="$PROJECT_DIR$/spring-security14-kickout/spring-security14-kickout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security15-jwt/spring-security15-jwt.iml" filepath="$PROJECT_DIR$/spring-security15-jwt/spring-security15-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security17-password/spring-security17-password.iml" filepath="$PROJECT_DIR$/spring-security17-password/spring-security17-password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security18-annotation-auth/spring-security18-annotation-auth.iml" filepath="$PROJECT_DIR$/spring-security18-annotation-auth/spring-security18-annotation-auth.iml" />
+    </modules>
+  </component>
+</project>
